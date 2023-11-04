@@ -4,7 +4,6 @@ import './App.css';
 import AppHeader from './components/header';
 import AppHero from './components/hero';
 import AppAbout from './components/about';
-import AppServices from './components/services';
 import AppTeams from './components/teams';
 import AppTestimonials from './components/testimonials';
 import AppPricing from './components/pricing';
@@ -20,7 +19,6 @@ function App() {
       <main>
         <AppHero />
         <AppAbout />
-        <AppServices />
         <AppTeams />
         <AppTestimonials />
         <AppPricing />
